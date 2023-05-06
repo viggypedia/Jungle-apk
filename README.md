@@ -1,5 +1,5 @@
 # Jungle-apk
-This is an android browser which I had created in the initial days in the learning process of coding.
+This is an android browser which I had created during the initial days in the learning process of coding.
 One of the basic browser coded completely in block based coding language.
 
 MIT app inventor in a platform where anyone can create instant apps with the help of block based coding.
